@@ -1,0 +1,17 @@
+{
+  "name": "restaurant-menu-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {
+    "apollo-server-testing": "^2.25.2",
+    "jest": "^27.4.3"
+  }
+}
